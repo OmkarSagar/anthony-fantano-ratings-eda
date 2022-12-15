@@ -1,6 +1,6 @@
 # Anthony Fantano Ratings Pre-processing and EDA
 
-The following document takes a deeper look at famous YouTube music reviewer Anthony Fantano’s album ratings. The data contains all reviews/scores of music albums rated by him and was webscraped from rateyourmusic.com/~theneedledrop. The attached analysis report is a page synopsis that summarizes the key findings and insights from the EDA.  _Analyzing his ratings on hip hop albums was an area of interest._
+The following document takes a deeper look at famous YouTube music reviewer Anthony Fantano’s album ratings. The data contains all reviews/scores of music albums rated by him and was webscraped from rateyourmusic.com/~theneedledrop. The attached analysis report summarizes the key findings and insights from the EDA.  _Analyzing his ratings on hip hop albums was an area of interest._
 
 __Data Source:__
 
